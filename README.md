@@ -1,4 +1,4 @@
-#microprocessor_systems
+# microprocessor_systems
 
 All work was done in collaboration with my fellow student, David Duke.
 
